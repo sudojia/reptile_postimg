@@ -1,5 +1,1 @@
-https://blog.imzjw.cn/posts/88c14d33/
-https://blog.imzjw.cn/posts/51a5d1ca/
-https://blog.imzjw.cn/posts/ff838eeb/
-https://blog.imzjw.cn/posts/4ac1b6b1/
-https://blog.imzjw.cn/posts/dd790023/
+https://blog.imzjw.cn/posts/boot-mybatis/
